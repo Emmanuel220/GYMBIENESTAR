@@ -1,0 +1,29 @@
+h1{
+	color:black;
+	text-align:center;
+	font-size:50px;
+	text-decoration: underline;
+}
+
+body{
+
+	background:#8ab6d6;
+}
+
+p{
+	font-size:40px;
+	font-family:Romana;
+	color:black;
+}
+
+table, th, td {
+  border: 5px solid black;
+  border-collapse: collapse;
+  font-family:Romana;
+}
+th, td {
+	font-family:Romana;
+  padding: 10px;
+  text-align: left;   
+  font-size: 30px; 
+}
